@@ -1,0 +1,422 @@
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"self.log is not a function self.log is not a function","stack":"TypeError: self.log is not a function\n    at Function.DerivedLogger.<computed> [as error] (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/winston/lib/winston/create-logger.js:95:19)\n    at Function.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:42:14)\n    at Generator.throw (<anonymous>)\n    at rejected (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"self.log is not a function self.log is not a function","stack":"TypeError: self.log is not a function\n    at Function.DerivedLogger.<computed> [as error] (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/winston/lib/winston/create-logger.js:95:19)\n    at Function.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:42:14)\n    at Generator.throw (<anonymous>)\n    at rejected (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"self.log is not a function self.log is not a function","stack":"TypeError: self.log is not a function\n    at Function.DerivedLogger.<computed> [as error] (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/winston/lib/winston/create-logger.js:95:19)\n    at Function.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:42:14)\n    at Generator.throw (<anonymous>)\n    at rejected (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"self.log is not a function self.log is not a function","stack":"TypeError: self.log is not a function\n    at Function.DerivedLogger.<computed> [as error] (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/winston/lib/winston/create-logger.js:95:19)\n    at Function.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:42:14)\n    at Generator.throw (<anonymous>)\n    at rejected (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/utils/database/database.ts:6:65)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"error","message":"Error connecting to PostgreSQL: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.","stack":"InitializedRelationError: Array initializations are not allowed in entity relations. Please remove array initialization (= []) from \"Task#comments\". This is ORM requirement to make relations to work properly. Refer docs for more information.\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:223:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:214:34)\n    at /Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/metadata-builder/EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:730:33)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async DataSource.initialize (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/data-source/DataSource.ts:263:13)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":[{"location":"body","msg":"Username is required","path":"username","type":"field","value":""}]}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully..."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully..."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully..."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"AuthenticationError: Invalid credentials\n    at UserService.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:48:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"AuthenticationError: Invalid credentials\n    at UserService.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:48:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"AuthenticationError: Invalid credentials\n    at UserService.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:48:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"AuthenticationError: Invalid credentials\n    at UserService.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:48:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"AuthenticationError: Invalid credentials\n    at UserService.<anonymous> (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:48:15)\n    at Generator.next (<anonymous>)\n    at fulfilled (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/src/services/UserService.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully..."}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"QueryFailedError: duplicate key value violates unique constraint \"UQ_e12875dfb3b1d92d7d7c5377e22\"\n    at PostgresQueryRunner.query (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/typeorm/src/driver/postgres/PostgresQueryRunner.ts:331:19)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async InsertQueryBuilder.execute (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/query-builder/InsertQueryBuilder.ts:163:33)\n    at async SubjectExecutor.executeInsertOperations (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/persistence/SubjectExecutor.ts:435:42)\n    at async SubjectExecutor.execute (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/persistence/SubjectExecutor.ts:137:9)\n    at async EntityPersistExecutor.execute (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/persistence/EntityPersistExecutor.ts:182:21)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error","message":"QueryFailedError: duplicate key value violates unique constraint \"UQ_e12875dfb3b1d92d7d7c5377e22\"\n    at PostgresQueryRunner.query (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/typeorm/src/driver/postgres/PostgresQueryRunner.ts:331:19)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async InsertQueryBuilder.execute (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/query-builder/InsertQueryBuilder.ts:163:33)\n    at async SubjectExecutor.executeInsertOperations (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/persistence/SubjectExecutor.ts:435:42)\n    at async SubjectExecutor.execute (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/persistence/SubjectExecutor.ts:137:9)\n    at async EntityPersistExecutor.execute (/Users/jayantchhangani/Desktop/Jayant/Projects/TaskMaster/node_modules/src/persistence/EntityPersistExecutor.ts:182:21)"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"debug","message":"Logging initialized at debug level"}
+{"level":"info","message":"Connected to PostgreSQL database"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully..."}
